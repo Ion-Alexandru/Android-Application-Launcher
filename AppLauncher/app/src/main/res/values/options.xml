@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="options_array">
+        <item>Name</item>
+        <item>Recently Used</item>
+    </string-array>
+</resources>
